@@ -20,7 +20,7 @@ There is an enterBit that if true, validation upon the current
 and set combinations consist of equal digits.
 
 ## Correct
-![correct2IMG](docs/img/correct2.jpg)
+![correct2IMG](docs/img/correct.jpg)
 ## Set
 ![setIMG](docs/img/set.jpg)
 ## Incorrect (Timeout)
